@@ -6,4 +6,5 @@
   
 引自：[Money Hall problem](https://en.wikipedia.org/wiki/Monty_Hall_problem)  
 - 贝叶斯公式：  
-<a href="https://www.codecogs.com/eqnedit.php?latex=p(A|B)&space;=&space;\frac{p(B|A)*p(A)}{p(B)}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?p(A|B)&space;=&space;\frac{p(B|A)*p(A)}{p(B)}" title="p(A|B) = \frac{p(B|A)*p(A)}{p(B)}" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=p(A|B)&space;=&space;\frac{p(B|A)*p(A)}{p(B)}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?p(A|B)&space;=&space;\frac{p(B|A)*p(A)}{p(B)}" title="p(A|B) = \frac{p(B|A)*p(A)}{p(B)}" /></a>  
+p(A|B)&space;=&space;\frac{p(B|A)*p(A)}{p(B)}
